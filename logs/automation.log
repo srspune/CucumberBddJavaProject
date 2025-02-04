@@ -1,0 +1,24 @@
+11:56:40:855 [main] INFO  stepDefination.StepDefLogin - Setup Logger Execiuted
+11:56:45:538 [main] FATAL stepDefination.StepDefLogin - User Lounched Chrome Browser Log
+11:56:47:932 [main] INFO  stepDefination.StepDefLogin - UseeName and Password entered and Log
+11:56:51:015 [main] INFO  stepDefination.StepDefLogin - login clicked Log
+11:57:04:064 [main] INFO  stepDefination.StepDefLogin - Setup Logger Execiuted
+11:57:07:791 [main] FATAL stepDefination.StepDefLogin - User Lounched Chrome Browser Log
+11:57:10:198 [main] INFO  stepDefination.StepDefLogin - UseeName and Password entered and Log
+11:57:13:017 [main] INFO  stepDefination.StepDefLogin - login clicked Log
+11:57:26:986 [main] INFO  stepDefination.StepDefLogin - Setup Logger Execiuted
+11:57:30:684 [main] FATAL stepDefination.StepDefLogin - User Lounched Chrome Browser Log
+11:57:33:108 [main] INFO  stepDefination.StepDefLogin - UseeName and Password entered and Log
+11:57:36:386 [main] INFO  stepDefination.StepDefLogin - login clicked Log
+11:58:42:061 [main] INFO  stepDefination.StepDefLogin - Setup Logger Execiuted
+11:58:46:193 [main] FATAL stepDefination.StepDefLogin - User Lounched Chrome Browser Log
+11:58:48:776 [main] INFO  stepDefination.StepDefLogin - UseeName and Password entered and Log
+11:58:56:142 [main] INFO  stepDefination.StepDefLogin - Setup Logger Execiuted
+13:33:40:909 [main] INFO  stepDefination.StepDefLogin - Setup Logger Execiuted
+13:33:45:278 [main] FATAL stepDefination.StepDefLogin - User Lounched Chrome Browser Log
+13:33:47:699 [main] INFO  stepDefination.StepDefLogin - UseeName and Password entered and Log
+13:33:51:021 [main] INFO  stepDefination.StepDefLogin - login clicked Log
+13:50:47:161 [main] INFO  stepDefination.StepDefLogin - Setup Logger Execiuted
+13:50:51:022 [main] FATAL stepDefination.StepDefLogin - User Lounched Chrome Browser Log
+13:50:53:566 [main] INFO  stepDefination.StepDefLogin - UseeName and Password entered and Log
+13:50:57:170 [main] INFO  stepDefination.StepDefLogin - login clicked Log

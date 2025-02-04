@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.39" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login" name="Successful login with valid credentials" time="0.045">
+<system-out><![CDATA[
+Given User launch chrome browser............................................passed
+When user opens url "https://tutorialsninja.com/demo/index.php?route=account/login".passed
+And user enters email as "peter786@gmail.com" and password as "7867867860"..passed
+And Click on Login..........................................................passed
+Then user click on MyAccount link...........................................passed
+And user click on logout link...............................................passed
+And close browser...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
